@@ -78,6 +78,24 @@ plt.show()
 sns.histplot(x='Variable_name',data=df)
 ```
 ![image](https://github.com/lokeshrahulv/Mini-Project/assets/118423842/192bd3ad-a77f-44fa-8728-b7c539c1f400)
+```python
+plt.figure(figsize=(8, 4))
+sns.boxplot(data=data, x='ID', color='lightcoral')
+plt.title('Position Boxplot')
+plt.xlabel('ID')
+plt.show()
+```
+![1](https://github.com/lokeshrahulv/Mini-Project/assets/118423842/44af0e9b-e316-49b7-b720-7ca7dc96d222)
+```python
+plt.figure(figsize=(10, 4))
+sns.countplot(data=data, x='Desig', palette='Set2')
+plt.title('Desig Counts')
+plt.xlabel('Desig')
+plt.ylabel('Count')
+plt.show()
+```
+
+![2](https://github.com/lokeshrahulv/Mini-Project/assets/118423842/df39bb3f-8a8c-4a9a-8659-0fc2c76b04d0)
 
 ## RESULT:
 Hence the program to analyze the data set using data science is applied sucessfully.
