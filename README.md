@@ -1,7 +1,7 @@
 # Mini-Project
 ## ANALYSIS OF THE DETAILS OF INDUSTRY
 ## Aim:
-Analysis of the details of a person.
+Analysis of the details of a industry.
 
 ## ALGORITHM:
 
