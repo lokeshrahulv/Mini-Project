@@ -72,7 +72,7 @@ plt.title("Variable_name")
 plt.show()
 ```
 
-![Screenshot 2023-11-14 112242](https://github.com/lokeshrahulv/Mini-Project/assets/118423842/82c5e6ef-5548-48c0-a82d-b0b3d960fce5)
+![5](https://github.com/lokeshrahulv/Mini-Project/assets/118423842/9773d9d5-5a54-4320-8959-5e3a22cf33a2)
 
 ```python
 sns.histplot(x='Variable_name',data=df)
